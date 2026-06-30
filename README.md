@@ -1,63 +1,63 @@
-# 🐾 Clínica Veterinária Vida Animal
+# 🐾 Vida Animal Veterinary Clinic
 
-Projeto desenvolvido como parte do **Módulo II da Trilha de HTML da DIO**, com o objetivo de colocar em prática os principais conceitos de HTML por meio da criação de um website institucional para uma clínica veterinária fictícia.
+This project was developed as part of the **HTML Module II** from the **DIO (Digital Innovation One) HTML Track**, with the goal of practicing fundamental HTML concepts by building an institutional website for a fictional veterinary clinic.
 
-O site foi construído utilizando apenas **HTML5** e **CSS básico**, priorizando o uso correto da estrutura semântica da linguagem e dos elementos apresentados durante o curso.
+The website was built using only **HTML5** and **CSS3**, focusing on semantic HTML, proper page structure, and the core concepts covered throughout the course.
 
 ---
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/images/preview.png)
+![Project Preview](./assets/images/preview.png)
 
 ---
 
-## 📖 Sobre o projeto
+## 📖 About the Project
 
-A **Clínica Veterinária Vida Animal** é um site institucional fictício composto por diversas páginas interligadas, simulando um website real de uma clínica veterinária.
+**Vida Animal Veterinary Clinic** is a fictional institutional website composed of multiple interconnected pages, simulating the online presence of a real veterinary clinic.
 
-Durante o desenvolvimento foram aplicados conceitos fundamentais de HTML, como organização do conteúdo, navegação entre páginas, tabelas, formulários, imagens e incorporação de mapas.
-
----
-
-## ✨ Funcionalidades
-
-- 🏠 Página inicial com apresentação da clínica
-- 🐶 Página "Sobre a Clínica"
-- 🕒 Página de horários de atendimento
-- 💲 Tabela de serviços
-- 📞 Página de contato
-- 📝 Formulário para envio de mensagens
-- 🗺️ Mapa incorporado com Google Maps
-- 🖼️ Banners personalizados em cada página
-- 📱 Menu de navegação entre todas as páginas
+Throughout the development, fundamental HTML concepts were applied, including semantic structure, navigation, tables, forms, images, and embedded maps.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## ✨ Features
+
+- 🏠 Home page introducing the clinic
+- 🐶 About the Clinic page
+- 🕒 Business hours page
+- 💲 Services table
+- 📞 Contact page
+- 📝 Contact form
+- 🗺️ Embedded Google Maps location
+- 🖼️ Custom banners for each page
+- 📱 Navigation menu linking all pages
+
+---
+
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 
 ---
 
-## 📚 Conceitos praticados
+## 📚 Concepts Practiced
 
-Durante este projeto foram utilizados diversos recursos do HTML, entre eles:
+This project explores several core HTML concepts, including:
 
-- Estrutura semântica de páginas
-- Links e navegação
-- Listas não ordenadas
-- Imagens
-- Tabelas
-- Formulários
+- Semantic HTML structure
+- Hyperlinks and navigation
+- Unordered lists
+- Images
+- Tables
+- Forms
 - Iframes
-- Organização de arquivos
-- Separação entre estrutura (HTML) e estilos (CSS)
+- File organization
+- Separation of structure (HTML) and presentation (CSS)
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Project Structure
 
 ```text
 .
@@ -74,30 +74,30 @@ Durante este projeto foram utilizados diversos recursos do HTML, entre eles:
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Learning Objectives
 
-Este projeto teve como foco consolidar os conhecimentos iniciais de HTML, desenvolvendo um site completo utilizando apenas os recursos apresentados até este módulo da trilha.
+The main goal of this project was to reinforce the fundamental concepts of HTML by developing a complete static website using only the technologies introduced up to this point in the course.
 
 ---
 
-## 🌐 Acesse o projeto
+## 🌐 Live Demo
 
 👉 https://E-ternalSpring.github.io/html-vet-clinic-website/
 
 ---
 
-## 🚀 Como executar
+## 🚀 Getting Started
 
-Como este é um projeto estático, basta abrir o arquivo `index.html` em qualquer navegador moderno.
+Since this is a static website, simply open the `index.html` file in any modern web browser.
 
-Ou, se preferir, utilize a extensão **Live Server** no Visual Studio Code para uma melhor experiência durante o desenvolvimento.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+For a better development experience, you can also use the **Live Server** extension in Visual Studio Code.
 
 ---
 
-Desenvolvido durante a **Trilha de HTML da DIO** como exercício de aprendizagem.
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+---
+
+Developed as part of the **DIO HTML Track** for learning purposes.

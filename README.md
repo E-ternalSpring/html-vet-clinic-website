@@ -25,7 +25,7 @@ Durante o desenvolvimento foram aplicados conceitos fundamentais de HTML, como o
 - 🏠 Página inicial com apresentação da clínica
 - 🐶 Página "Sobre a Clínica"
 - 🕒 Página de horários de atendimento
-- 💲 Tabela de serviços e preços
+- 💲 Tabela de serviços
 - 📞 Página de contato
 - 📝 Formulário para envio de mensagens
 - 🗺️ Mapa incorporado com Google Maps
@@ -47,7 +47,7 @@ Durante este projeto foram utilizados diversos recursos do HTML, entre eles:
 
 - Estrutura semântica de páginas
 - Links e navegação
-- Listas ordenadas e não ordenadas
+- Listas não ordenadas
 - Imagens
 - Tabelas
 - Formulários

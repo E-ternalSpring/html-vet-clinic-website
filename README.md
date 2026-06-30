@@ -1,74 +1,103 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+# 🐾 Clínica Veterinária Vida Animal
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
-- Formulários
-- Estruturação e formatação de texto
-- Mídias
+Projeto desenvolvido como parte do **Módulo II da Trilha de HTML da DIO**, com o objetivo de colocar em prática os principais conceitos de HTML por meio da criação de um website institucional para uma clínica veterinária fictícia.
+
+O site foi construído utilizando apenas **HTML5** e **CSS básico**, priorizando o uso correto da estrutura semântica da linguagem e dos elementos apresentados durante o curso.
+
+---
+
+## 📸 Preview
+
+![Preview do projeto](./assets/images/preview.png)
+
+---
+
+## 📖 Sobre o projeto
+
+A **Clínica Veterinária Vida Animal** é um site institucional fictício composto por diversas páginas interligadas, simulando um website real de uma clínica veterinária.
+
+Durante o desenvolvimento foram aplicados conceitos fundamentais de HTML, como organização do conteúdo, navegação entre páginas, tabelas, formulários, imagens e incorporação de mapas.
+
+---
+
+## ✨ Funcionalidades
+
+- 🏠 Página inicial com apresentação da clínica
+- 🐶 Página "Sobre a Clínica"
+- 🕒 Página de horários de atendimento
+- 💲 Tabela de serviços e preços
+- 📞 Página de contato
+- 📝 Formulário para envio de mensagens
+- 🗺️ Mapa incorporado com Google Maps
+- 🖼️ Banners personalizados em cada página
+- 📱 Menu de navegação entre todas as páginas
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## 📚 Conceitos praticados
+
+Durante este projeto foram utilizados diversos recursos do HTML, entre eles:
+
+- Estrutura semântica de páginas
+- Links e navegação
+- Listas ordenadas e não ordenadas
+- Imagens
 - Tabelas
+- Formulários
+- Iframes
+- Organização de arquivos
+- Separação entre estrutura (HTML) e estilos (CSS)
 
-Além de outros recursos falados nas aulas!
+---
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+## 📂 Estrutura do projeto
 
-Abaixo como cada página deve ser criada e estruturada.
+```text
+.
+├── assets/
+│   └── images/
+├── index.html
+├── about.html
+├── business-hours.html
+├── contact.html
+├── base.css
+├── LICENSE
+└── README.md
+```
 
-### Estrutura das páginas
+---
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+## 🎯 Objetivo
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
+Este projeto teve como foco consolidar os conhecimentos iniciais de HTML, desenvolvendo um site completo utilizando apenas os recursos apresentados até este módulo da trilha.
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+---
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
-2. Em **Content** uma breve descrição sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+## 🌐 Acesse o projeto
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+👉 https://seuusuario.github.io/veterinary-clinic-html/
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+---
 
-|Serviços |Segunda a Sexta | Sábados | Feriados |
-|---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
-|||||
+## 🚀 Como executar
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+Como este é um projeto estático, basta abrir o arquivo `index.html` em qualquer navegador moderno.
 
+Ou, se preferir, utilize a extensão **Live Server** no Visual Studio Code para uma melhor experiência durante o desenvolvimento.
 
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
-    - Os telefones de contato (celular e whatsapp)
-    - Endereço completo da clínica
-    - Um Iframe com o Google Maps apontando o endereço da clínica
-    - Um formulário de contato com:
-        - Nome (type="text")
-        - E-mail (type="email")
-        - Assunto (type="text")
-        - Mensagem (textarea)
-        - Botões de envias e limpar formulário
+---
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+## 📄 Licença
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
-Bora pra cima!
+---
+
+Desenvolvido durante a **Trilha de HTML da DIO** como exercício de aprendizagem.
